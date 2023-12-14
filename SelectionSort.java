@@ -1,5 +1,6 @@
 public class SelectionSort {
 	private int temp;
+
 	public SelectionSort() {
 	}
 
@@ -15,4 +16,7 @@ public class SelectionSort {
 		} 
 		return x;
 	} 
+
+	} //branch2change
+
 }
